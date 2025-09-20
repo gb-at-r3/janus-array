@@ -114,7 +114,7 @@ Currently available as a Git dependency. Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-janus-array = { git = "https://github.com/yourusername/janus-array" }
+janus-array = { git = "https://github.com/gb-at-r3/janus-array" }
 ```
 
 *Will be published to crates.io as version 0.1 once stabilized.*
